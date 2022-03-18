@@ -1,0 +1,11 @@
+.uni-centering-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+}
+
+.uni-centering-container_column {
+    flex-direction: column;
+}
